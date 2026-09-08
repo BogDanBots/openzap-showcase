@@ -1,10 +1,8 @@
-# Screenshot provenance and redaction plan
+# Screenshots
 
-Prefer a newly drawn architecture diagram or a clean local demo. Do not publish screenshots from the private project until they have been checked for:
+No screenshots are published in this repository yet.
 
-- prompts, memory records, user context or identity data;
-- wallet addresses, transaction identifiers and private endpoints;
-- API keys, tokens, headers, logs or environment values;
-- internal service names, deployment details and provider state.
-
-A public screenshot should demonstrate the workflow without exposing private context or operational infrastructure.
+Any future image must demonstrate the workflow without exposing prompts,
+memory records, user context, identity data, wallet addresses, transaction
+identifiers, private endpoints, API keys, tokens, headers, logs, environment
+values, internal service names, deployment details or provider state.
